@@ -1,0 +1,20 @@
+{
+    "categorias": [
+      {
+        "id": 1,
+        "titulo": "Front End",
+        "cor": "#E50914",
+        "link_extra": {
+          "text": "Videos sobre desenvolvimento Front End"
+        }
+      }
+     ],
+    "videos": [
+      {
+        "id": 1,
+        "categoriaId": 1,
+        "titulo": "SEO com React",
+        "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+      }
+    ]
+  }
